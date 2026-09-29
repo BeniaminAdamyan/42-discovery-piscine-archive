@@ -1,0 +1,121 @@
+Objet : Risques liés à l’utilisation de LLM et Protection des Données Sensibles
+
+De : Nathalie Dupont, Directrice Générale
+À : Marie Dupuis, Déléguée à la Protection des Données ; Jean Lefebvre, Directeur des Systèmes d'Information ; Claire Martin, Responsable Juridique ; Thomas Durand, Responsable des Projets Numériques
+Date : 26 septembre 2024, 12:30
+
+Chers Collaborateurs,
+
+Merci pour vos contributions. Marie, je te remercie d'avoir soulevé cette question cruciale. Je pense que nous devons agir rapidement et de manière concertée pour prévenir tout incident lié à l’utilisation des LLM. J’appuie la proposition de Claire concernant la mise en place d’une charte, ainsi que l’approche technique suggérée par Thomas et Jean.
+
+Je vous invite à planifier rapidement une réunion pour formaliser ces actions et nous assurer que tous nos collaborateurs soient bien sensibilisés à ces enjeux.
+
+Bien à vous,
+Nathalie Dupont
+Directrice Générale
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+    De : Thomas Durand, Responsable des Projets Numériques
+    À : Marie Dupuis, Déléguée à la Protection des Données ; Jean Lefebvre, Directeur des Systèmes d'Information ; Claire Martin, Responsable Juridique
+    Date : 26 septembre 2024, 11:45
+    Cc : Nathalie Dupont, Directrice Générale
+
+    Chers tous,
+
+    Je rejoins totalement vos observations. En tant que responsable des projets numériques, je constate que les LLM sont de plus en plus sollicités, notamment pour automatiser certaines réponses ou analyses. Cependant, je partage l’inquiétude de Marie quant au risque de fuite d’informations sensibles.
+
+    Je pense qu’il serait également utile d’implémenter une solution technique qui permettrait de restreindre l’accès aux LLM pour certains types de données. Peut-être pourrions-nous configurer ces outils afin qu’ils fonctionnent uniquement dans des environnements isolés et contrôlés, et qu’ils n’aient pas d’accès aux données sensibles de l’entreprise.
+
+    Je suis à disposition pour travailler avec Jean sur une solution technique adaptée.
+
+    Bien cordialement,
+    Thomas Durand
+    Responsable des Projets Numériques
+
+
+        
+        
+        
+
+        
+        
+        
+
+
+
+
+        De : Jean Lefebvre, Directeur des Systèmes d'Information
+        À : Marie Dupuis, Déléguée à la Protection des Données
+        Date : 26 septembre 2024, 10:12
+        Cc : Claire Martin, Responsable Juridique ; Thomas Durand, Responsable des Projets Numériques ; Nathalie Dupont, Directrice Générale
+
+        Chère Marie,
+
+        Merci pour ton message. Ta préoccupation est tout à fait légitime. Nous avons effectivement observé que les utilisateurs internes peuvent être tentés de poser des questions techniques ou opérationnelles à ces modèles sans toujours mesurer les conséquences en termes de données partagées.
+
+        Nous pourrions envisager la mise en place d'un système de filtrage qui empêcherait l’envoi d’informations identifiables ou sensibles vers ces plateformes. Par ailleurs, une formation rapide des équipes sur les risques liés à l’utilisation des LLM serait utile pour éviter tout manquement involontaire.
+
+        Je suggère que nous procédions à un audit des requêtes envoyées aux LLM ces derniers mois afin de déterminer si des données sensibles ont déjà été échangées.
+
+        Bien à toi,
+        Jean Lefebvre
+        Directeur des Systèmes d'Information
+
+        De : Claire Martin, Responsable Juridique
+        À : Marie Dupuis, Déléguée à la Protection des Données ; Jean Lefebvre, Directeur des Systèmes d'Information
+        Date : 26 septembre 2024, 11:00
+        Cc : Thomas Durand, Responsable des Projets Numériques ; Nathalie Dupont, Directrice Générale
+
+        Chère Marie, cher Jean,
+
+        Merci pour vos retours. Du point de vue juridique, il est clair que le partage non maîtrisé de données avec des LLM externes pourrait constituer une violation du RGPD, ce qui pourrait engager la responsabilité de l’entreprise. Je partage l'idée d'une formation sur les bonnes pratiques, mais j'insiste également sur la nécessité de formaliser une politique interne stricte sur l'utilisation de ces technologies.
+
+        Je me propose de travailler avec vous pour rédiger une charte d’utilisation spécifique aux LLM, en définissant clairement les types d’informations qui ne doivent jamais être partagés avec ces systèmes.
+
+        Cordialement,
+        Claire Martin
+        Responsable Juridique
+
+
+            
+            
+            
+
+            
+            
+            
+
+
+
+
+            De : Marie Dupuis, Déléguée à la Protection des Données (DPO)
+            À : Jean Lefebvre, Directeur des Systèmes d’Information ; Claire Martin, Responsable Juridique ; Thomas Durand, Responsable des Projets Numériques
+            Date : 26 septembre 2024, 09:30
+            Cc : Nathalie Dupont, Directrice Générale
+
+            Chers Collaborateurs,
+
+            Je vous écris afin d’aborder une question qui me semble de la plus haute importance concernant l’utilisation des modèles de langage (LLM) que nous intégrons progressivement dans nos processus de travail.
+
+            En tant que DPO, je dois vous faire part de mes inquiétudes quant aux données qui pourraient être échangées lors de l'utilisation de ces outils. En effet, lorsqu’on pose des questions à ces modèles, il existe un risque que des données personnelles ou sensibles soient accidentellement partagées ou traitées par des systèmes externes, échappant ainsi à notre contrôle.
+
+            Je tiens à rappeler que nous avons l'obligation légale de garantir que les informations concernant nos clients, partenaires ou employés ne soient jamais exposées à des tiers sans consentement explicite ou en dehors du cadre réglementaire strict (RGPD). Il est donc impératif que nous prenions des mesures pour limiter les risques liés à l'utilisation de ces outils.
+
+            Je vous propose que nous organisions rapidement une réunion afin d'établir des lignes directrices claires sur ce qui peut ou ne peut pas être soumis aux LLM, et d’envisager des mesures de sécurité adaptées pour encadrer ces pratiques.
+
+            Je me tiens bien entendu à votre disposition pour toute question ou clarification.
+
+            Bien à vous,
+            Marie Dupuis
+            Déléguée à la Protection des Données

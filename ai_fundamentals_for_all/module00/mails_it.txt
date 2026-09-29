@@ -1,0 +1,91 @@
+Da: Nathalie Dupont, Amministratrice Delegata
+A: Marie Dupuis, Responsabile della Protezione dei Dati; Jean Lefebvre, Direttore dei Sistemi Informativi; Claire Martin, Responsabile Legale; Thomas Durand, Responsabile dei Progetti Digitali
+Data: 26 settembre 2024, 12:30
+
+Cari Colleghi,
+
+Grazie per i vostri contributi. Marie, apprezzo che tu abbia sollevato questa questione critica. Credo sia necessario agire rapidamente e in modo collaborativo per prevenire qualsiasi incidente legato all'uso degli LLM. Supporto la proposta di Claire di implementare una carta di utilizzo, così come l'approccio tecnico suggerito da Thomas e Jean.
+
+Vi incoraggio a programmare presto un incontro per formalizzare queste azioni e garantire che tutti i nostri dipendenti siano ben informati su queste problematiche.
+
+Cordiali saluti,
+Nathalie Dupont
+Amministratrice Delegata
+
+---
+
+Da: Thomas Durand, Responsabile dei Progetti Digitali
+A: Marie Dupuis, Responsabile della Protezione dei Dati; Jean Lefebvre, Direttore dei Sistemi Informativi; Claire Martin, Responsabile Legale
+Data: 26 settembre 2024, 11:45
+Cc: Nathalie Dupont, Amministratrice Delegata
+
+Cari tutti,
+
+Concordo pienamente con le vostre osservazioni. In qualità di Responsabile dei Progetti Digitali, ho notato che gli LLM vengono utilizzati sempre più spesso, in particolare per automatizzare risposte o analisi. Tuttavia, condivido la preoccupazione di Marie riguardo al rischio di esporre informazioni sensibili.
+
+Ritengo che sarebbe utile anche implementare una soluzione tecnica che limiti l'accesso agli LLM per determinati tipi di dati. Forse potremmo configurare questi strumenti in modo che operino solo in ambienti isolati e controllati, impedendo loro di accedere ai dati sensibili dell'azienda.
+
+Sono disponibile a collaborare con Jean per trovare una soluzione tecnica adeguata.
+
+Cordiali saluti,
+Thomas Durand
+Responsabile dei Progetti Digitali
+
+---
+
+Da: Claire Martin, Responsabile Legale
+A: Marie Dupuis, Responsabile della Protezione dei Dati; Jean Lefebvre, Direttore dei Sistemi Informativi
+Data: 26 settembre 2024, 11:00
+Cc: Thomas Durand, Responsabile dei Progetti Digitali; Nathalie Dupont, Amministratrice Delegata
+
+Cara Marie, caro Jean,
+
+Grazie per i vostri feedback. Dal punto di vista legale, è evidente che la condivisione incontrollata di dati con LLM esterni potrebbe costituire una violazione del GDPR, esponendo potenzialmente l'azienda a responsabilità legali. Concordo con l'idea di fare formazione sulle buone pratiche, ma sottolineo anche l'importanza di formalizzare una politica interna rigorosa sull'uso di queste tecnologie.
+
+Propongo di collaborare con voi per redigere una carta di utilizzo specifica per gli LLM, delineando chiaramente i tipi di informazioni che non devono mai essere condivisi con questi sistemi.
+
+Cordiali saluti,
+Claire Martin
+Responsabile Legale
+
+---
+
+Da: Jean Lefebvre, Direttore dei Sistemi Informativi
+A: Marie Dupuis, Responsabile della Protezione dei Dati
+Data: 26 settembre 2024, 10:12
+Cc: Claire Martin, Responsabile Legale; Thomas Durand, Responsabile dei Progetti Digitali; Nathalie Dupont, Amministratrice Delegata
+
+Cara Marie,
+
+Grazie per il tuo messaggio. La tua preoccupazione è del tutto giustificata. Abbiamo effettivamente notato che alcuni utenti interni potrebbero essere tentati di porre domande tecniche o operative a questi modelli senza considerare appieno le conseguenze relative ai dati condivisi.
+
+Potremmo considerare l'implementazione di un sistema di filtraggio che impedisca l'invio di informazioni identificabili o sensibili a queste piattaforme. Inoltre, sarebbe utile organizzare una breve sessione di formazione per i team sui rischi legati all'uso degli LLM, per evitare eventuali violazioni non intenzionali.
+
+Suggerisco di effettuare un audit delle interrogazioni inviate agli LLM negli ultimi mesi, per determinare se siano già stati scambiati dati sensibili.
+
+Cordiali saluti,
+Jean Lefebvre
+Direttore dei Sistemi Informativi
+
+---
+
+Da: Marie Dupuis, Responsabile della Protezione dei Dati (DPO)
+A: Jean Lefebvre, Direttore dei Sistemi Informativi; Claire Martin, Responsabile Legale; Thomas Durand, Responsabile dei Progetti Digitali
+Data: 26 settembre 2024, 09:30
+Cc: Nathalie Dupont, Amministratrice Delegata
+
+Cari Colleghi,
+
+Vi scrivo per affrontare una questione di grande importanza riguardante l'uso dei modelli linguistici (LLM), che stanno venendo sempre più integrati nei nostri flussi di lavoro.
+
+In qualità di DPO, devo esprimere la mia preoccupazione riguardo ai dati che potrebbero essere potenzialmente condivisi durante l'interazione con questi strumenti. Infatti, quando si pongono domande agli LLM, esiste il rischio che dati personali o sensibili possano essere involontariamente condivisi o elaborati da sistemi esterni, al di fuori del nostro controllo.
+
+Vorrei ricordarvi che siamo legalmente obbligati a garantire che le informazioni sui nostri clienti, partner o dipendenti non vengano mai esposte a terze parti senza un consenso esplicito o al di fuori del rigido quadro normativo del GDPR. È quindi fondamentale adottare misure per mitigare i rischi associati all'uso di questi strumenti.
+
+Propongo di organizzare un incontro quanto prima per stabilire linee guida chiare su cosa può e non può essere inviato agli LLM, oltre a esplorare misure di sicurezza per regolare queste pratiche.
+
+Resto a disposizione per qualsiasi domanda o chiarimento.
+
+Cordiali saluti,
+Marie Dupuis
+Responsabile della Protezione dei Dati

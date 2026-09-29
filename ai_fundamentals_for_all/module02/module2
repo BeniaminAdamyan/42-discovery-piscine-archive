@@ -1,0 +1,108 @@
+Ex00:
+	https://notegpt.io/ai-image-generator
+
+	generated image: NoteGPT_Image_20260905194633.png
+	prompt: Generate desktop wallpaper for "42 Yerevan" students
+
+Ex01:
+	1st: Generate an sheep inside closed box for The Little Prince
+	2nd: Generate an sheep inside closed box for The Little Prince in a cartoon style
+	3rd: Generate an sheep inside closed box for The Little Prince in a pop-art style
+
+Ex02:
+	prompt1:
+	For slides, generate illustration of:
+	1. Energy & Sustainability
+	Cities run entirely on renewable sources — solar, wind, fusion, and advanced storage systems. Carbon capture is embedded in infrastructure, stabilizing climate change.
+	
+	prompt2:
+	Now for 2. Urban Living
+	Mega‑cities evolve into eco‑cities with vertical farms, algae bioreactors, and smart housing. AI manages traffic, waste, and energy flows for efficiency.
+	
+	prompt3:
+	Now for 3. Transportation
+	Autonomous electric vehicles dominate, while maglev hyperloops and suborbital flights connect continents in hours. Personal drones handle short‑distance logistics.
+	
+	prompt4:
+	Now for 4. Healthcare
+	AI‑driven diagnostics, nanomedicine, and genetic engineering extend lifespans. Preventive care is personalized through brain‑computer interfaces and bio‑sensors.
+	
+	Generate illustration
+	
+	prompt5:
+	Now generate for 5. Work & Economy
+	Automation and AGI reshape labor markets. Humans focus on creativity, ethics, and governance, while machines handle repetitive tasks. Universal basic income or resource credits stabilize economies.
+	
+	Generate without explanation
+	
+	prompt6:
+	Now for 6. Education
+	Learning is immersive, powered by neural interfaces and AR. Knowledge is tailored to individual cognitive styles, with lifelong learning becoming the norm.
+	
+	Just generate - no need expanation
+	
+	prompt7:
+	Now for 7. Environment & Biodiversity
+	Climate engineering stabilizes ecosystems. Genetic archives and rewilding projects restore extinct species. Oceans are monitored by AI drones to prevent collapse.
+	
+	prompt8:
+	Now for 8. Space Expansion
+	Lunar colonies, Mars settlements, and asteroid mining provide resources. Space becomes an extension of Earth’s economy and a frontier for human exploration.
+	
+	prompt9:
+	Now for 9. Culture & Society
+	Global culture blends digital and physical worlds. Virtual reality communities coexist with physical societies, raising questions of identity and belonging.
+	
+	Generate
+	
+	prompt10:
+	Now generate for 10. Ethics & Governance
+	Debates over AI rights, privacy, and human autonomy dominate politics. Governance evolves into hybrid human‑AI councils to balance efficiency with fairness.
+	
+Ex03:
+	Design logo that connects with "Bruh Memes" slogans - “Code, Compile, Cry — Bruh!”, “Where Bugs Meet Bruh Moments”, “Ctrl+C, Ctrl+Bruh”, “Debugging Life, One Bruh at a Time”, “Bruh… Another Segfault”, “Turning 	Stack Overflow Into Laugh Overflow”, “Because Every Commit Needs a Bruh” with limit of colors a lot - minimalism, but "Bruh!" as a San Andreas art logotype's style.
+		
+Ex04:
+	prompt: Generate suitable chart image that illustrates the evolution of the global population over the last 2000 years
+	ai: Gemini
+	
+Ex05:
+	ai: Notebook LM - (https://notebook.google.com/notebook)
+	
+	prompts:
+	Generate slides explaining deep learning to people without prior knowledge depending on these topics:
+	
+	1. Energy & Sustainability
+	Cities run entirely on renewable sources — solar, wind, fusion, and advanced storage systems. Carbon capture is embedded in infrastructure, stabilizing climate change.
+	
+	2. Urban Living
+	Mega‑cities evolve into eco‑cities with vertical farms, algae bioreactors, and smart housing. AI manages traffic, waste, and energy flows for efficiency.
+	
+	3. Transportation
+	Autonomous electric vehicles dominate, while maglev hyperloops and suborbital flights connect continents in hours. Personal drones handle short‑distance logistics.
+	
+	4. Healthcare
+	AI‑driven diagnostics, nanomedicine, and genetic engineering extend lifespans. Preventive care is personalized through brain‑computer interfaces and bio‑sensors.
+	
+	5. Work & Economy
+	Automation and AGI reshape labor markets. Humans focus on creativity, ethics, and governance, while machines handle repetitive tasks. Universal basic income or resource credits stabilize economies.
+	
+	6. Education
+	Learning is immersive, powered by neural interfaces and AR. Knowledge is tailored to individual cognitive styles, with lifelong learning becoming the norm.
+	
+	7. Environment & Biodiversity
+	Climate engineering stabilizes ecosystems. Genetic archives and rewilding projects restore extinct species. Oceans are monitored by AI drones to prevent collapse.
+	
+	8. Space Expansion
+	Lunar colonies, Mars settlements, and asteroid mining provide resources. Space becomes an extension of Earth’s economy and a frontier for human exploration.
+	
+	9. Culture & Society
+	Global culture blends digital and physical worlds. Virtual reality communities coexist with physical societies, raising questions of identity and belonging.
+
+	10. Ethics & Governance
+	Debates over AI rights, privacy, and human autonomy dominate politics. Governance evolves into hybrid human‑AI councils to balance efficiency with fairness.
+
+	PDF: The_Living_Blueprint.pdf
+	PPT: The_Living_Blueprint.pptx
+
+

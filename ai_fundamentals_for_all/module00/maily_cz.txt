@@ -1,0 +1,125 @@
+Od: Nathalie Dupont, Chief Executive Officer
+Komu: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects
+Datum: 26. září 2024, 12:30
+
+Vážení kolegové,
+
+děkuji vám za vaše příspěvky. Marie, oceňuji, že jste tuto kritickou otázku nadnesla. Věřím, že musíme jednat rychle a ve spolupráci, abychom předešli jakýmkoli incidentům souvisejícím s používáním LLM. Podporuji návrh Claire na zavedení charty, stejně jako technický přístup navržený Thomasem a Jeanem.
+
+Vyzývám vás, abyste si brzy naplánovali schůzku k formalizaci těchto kroků a zajistili, že všichni naši zaměstnanci budou o těchto obavách dobře informováni.
+
+S pozdravem,
+Nathalie Dupont
+Chief Executive Officer
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+    Od: Thomas Durand, Head of Digital Projects
+    Komu: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal
+    Datum: 26. září 2024, 11:45
+    Cc: Nathalie Dupont, Chief Executive Officer
+
+	Vážení všichni,
+
+	plně souhlasím s vašimi postřehy. Jako vedoucí digitálních projektů jsem si všiml, že LLM se používají stále častěji, zejména k automatizaci odpovědí nebo analýz. Sdílím však obavy Marie ohledně rizika odhalení citlivých informací.
+
+	Věřím, že by bylo také přínosné implementovat technické řešení, které omezí přístup k LLM pro určité typy dat. Možná bychom mohli tyto nástroje nakonfigurovat tak, aby fungovaly pouze v izolovaných a kontrolovaných prostředích, což by jim zabránilo v přístupu k citlivým datům společnosti.
+
+	Jsem k dispozici pro spolupráci s Jeanem na nalezení vhodného technického řešení.
+
+	S pozdravem,
+	Thomas Durand
+	Head of Digital Projects
+
+
+
+
+
+
+
+    
+
+
+        Od: Claire Martin, Head of Legal
+        Komu: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer
+        Datum: 26. září 2024, 11:00
+        Kopie: Thomas Durand, Head of Digital Projects; Nathalie Dupont, Chief Executive Officer
+
+		Vážená Marie, vážený Jeane,
+
+		děkuji vám za vaši zpětnou vazbu. Z právního hlediska je zřejmé, že nekontrolované sdílení dat s externími LLM by mohlo představovat porušení GDPR, což by společnost mohlo vystavit odpovědnosti. Souhlasím s myšlenkou školení o osvědčených postupech, ale také zdůrazňuji důležitost formalizace přísné interní politiky pro používání těchto technologií.
+
+		Navrhuji s vámi spolupracovat na návrhu specifické charty pro používání LLM, která by jasně vymezovala typy informací, které by se s těmito systémy nikdy neměly sdílet.
+
+		S pozdravem,
+		Claire Martin
+		Head of Legal
+
+
+            
+            
+            
+
+            
+            
+            
+
+
+
+			Od: Jean Lefebvre, Chief Information Officer
+        	Komu: Marie Dupuis, Data Protection Officer
+        	Datum: 26. září 2024, 10:12
+        	Kopie: Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects; Nathalie Dupont, Chief Executive Officer
+
+			Vážená Marie,
+
+			děkuji za vaši zprávu. Vaše obava je zcela oprávněná. Skutečně jsme si všimli, že interní uživatelé mohou být v pokušení klást těmto modelům technické nebo provozní otázky, aniž by plně zvážili důsledky týkající se sdílených dat.
+
+			Mohli bychom zvážit implementaci filtrovacího systému, který by zabránil odesílání identifikovatelných nebo citlivých informací na tyto platformy. Kromě toho by bylo přínosné rychlé školení týmů o rizicích spojených s používáním LLM, aby se předešlo neúmyslným porušením.
+
+			Navrhuji provést audit dotazů odeslaných na LLM za posledních několik měsíců, abychom zjistili, zda již nedošlo k výměně citlivých dat.
+
+			S pozdravem,
+			Jean Lefebvre
+			Chief Information Officer
+
+
+                
+                
+                
+
+                
+                
+                
+
+
+				Od: Marie Dupuis, Data Protection Officer (DPO)
+            	Komu: Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects
+            	Datum: 26. září 2024, 09:30
+            	Kopie: Nathalie Dupont, Chief Executive Officer
+
+				Vážení kolegové,
+
+				píši vám, abych se zabývala velmi důležitou záležitostí týkající se používání jazykových modelů (LLM), které jsou stále více integrovány do našich pracovních postupů.
+
+				Jako DPO musím vyjádřit své obavy ohledně dat, která by mohla být potenciálně sdílena při interakci s těmito nástroji. Při kladení otázek LLM totiž existuje riziko, že osobní nebo citlivé údaje mohou být neúmyslně sdíleny nebo zpracovány externími systémy, mimo naši kontrolu.
+
+				Chtěla bych vám připomenout, že jsme právně povinni zajistit, aby informace o našich klientech, partnerech nebo zaměstnancích nebyly nikdy vystaveny třetím stranám bez výslovného souhlasu nebo mimo přísný regulační rámec (GDPR). Je proto nezbytné, abychom přijali opatření ke zmírnění rizik spojených s používáním těchto nástrojů.
+
+				Navrhuji, abychom si neprodleně zorganizovali schůzku k stanovení jasných pokynů ohledně toho, co může a nemůže být předkládáno LLM, a také k prozkoumání bezpečnostních opatření k regulaci těchto praktik.
+
+				Zůstávám k dispozici pro jakékoli dotazy nebo upřesnění.
+
+				S pozdravem,
+				Marie Dupuis
+				Data Protection Officer
+

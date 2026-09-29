@@ -1,0 +1,162 @@
+Ex00:
+	Job Title
+	Prompt Engineer
+
+	Mission
+	Design, refine, and optimize prompts to improve the performance of large language models (LLMs) and AI systems, ensuring accurate, efficient, and context‑aware outputs across diverse applications.
+
+	Required Skills
+	Technical skills:
+
+	Strong understanding of LLMs, NLP, and AI workflows
+
+	Proficiency in Python or similar scripting languages
+
+	Familiarity with APIs and model fine‑tuning
+
+	Data analysis and evaluation of AI outputs
+
+	Behavioral skills:
+
+	Analytical thinking and problem‑solving
+
+	Clear communication and documentation
+
+	Creativity in designing effective prompts
+
+	Collaboration across technical and non‑technical teams
+
+	Qualifications
+	Bachelor’s or Master’s degree in Computer Science, Linguistics, AI, or related fields
+
+	Certifications in AI/ML or NLP are a plus
+
+	1–3 years of experience in AI, data science, or software engineering
+
+	Workplace
+	Flexible: On‑site, Hybrid, or Remote depending on company policy
+
+	Employment Conditions
+	Options include Permanent, Fixed‑term, Freelance, or Internship depending on project scope and candidate profile
+
+Ex01:
+	Generate several slogan proposals for a fictitious company which name is "Bruh Memes" and which field of activity making bruh memes especially about coding/programming/IT
+
+	“Code, Compile, Cry — Bruh!”
+
+	“Where Bugs Meet Bruh Moments”
+
+	“Ctrl+C, Ctrl+Bruh”
+
+	“Debugging Life, One Bruh at a Time”
+
+	“Memes for Devs Who’ve Seen It All”
+
+	“Bruh… Another Segfault”
+
+	“Turning Stack Overflow Into Laugh Overflow”
+
+	“Because Every Commit Needs a Bruh”
+
+Ex02:
+	Transform a motivation letter written in common, informal language into a high-level, professional language:
+
+	Dear Sir/Madam,
+	I am writing to you to apply for your telemarketing position. I believe I am cut out for
+	this because I like talking to people, and I am sure I can sell well. I have already worked
+	in things where you have to talk, like at the checkout, so I already know how to do it.
+	I am motivated to work for you, as I need a stable job. I know the phone well, and I am
+	ready to start right away. If you give me my chance, I will prove myself useful.
+	Looking forward to a quick response from you, I remain available to meet you if necessary.
+	Best regards,
+
+Ex03:
+	Translate a text from English to French on the theme of the ethics of artificial intelligence:
+
+	Artificial intelligence (AI) systems are increasingly used in recruitment, particularly for
+	pre-selecting CVs. However, despite their appearance of neutrality, these technologies can
+	reproduce and even reinforce human biases. One of the main concerns about the use of AI
+	in CV sorting is the way it can perpetuate discrimination based on characteristics such
+	as age, gender, or ethnic origin.
+	For example, an AI trained on historical data could learn to favor white candidates over
+	50 years old if, in the past, this group was overrepresented in the positions to be filled.
+	The algorithm, based on this data, could conclude that this profile is the most likely to succeed, even if this simply reflects prejudices and discriminatory practices in the recruitment
+	process. This bias can manifest subtly, for example, by giving exaggerated importance to
+	certain experiences or training that are statistically more common among people in this
+	group.
+	Similarly, for positions perceived as traditionally female, such as nursing jobs, an AI could
+	favor women’s CVs. If historical data shows that the majority of people in these positions
+	were women, the algorithm could develop an association between the female gender and
+	success in this type of role, potentially excluding qualified men.
+	These biases are not intentional, but they are inherent in the operation of AIs that rely on
+	past data. If the training data reflects inequalities or stereotypes, the algorithm’s decisions
+	will be biased. It is therefore crucial to use diversified data and to set up bias correction
+	mechanisms to prevent the AI from reproducing discriminatory patterns. Companies must
+	also be vigilant in regularly evaluating the algorithms used in their recruitment processes
+	to ensure that these tools contribute to greater fairness, rather than perpetuating existing
+	inequalities.
+	In short, the use of AIs in CV selection carries risks of bias related to age, gender, and
+	ethnic origin. It is essential to take measures to ensure that these tools do not become amplifiers of injustices, but rather levers to promote inclusion and diversity.
+
+	Les systèmes d’intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, notamment pour la présélection des CV. Cependant, malgré leur apparente neutralité, ces technologies peuvent reproduire et même renforcer les biais humains. L’une des principales préoccupations concernant l’utilisation de l’IA dans le tri des CV est la manière dont elle peut perpétuer des discriminations fondées sur des caractéristiques telles que l’âge, le genre ou l’origine ethnique.
+
+	Par exemple, une IA entraînée sur des données historiques pourrait apprendre à favoriser des candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L’algorithme, basé sur ces données, pourrait conclure que ce profil est le plus susceptible de réussir, même si cela ne reflète que des préjugés et des pratiques discriminatoires dans le processus de recrutement. Ce biais peut se manifester subtilement, par exemple en accordant une importance exagérée à certaines expériences ou formations statistiquement plus fréquentes chez les personnes de ce groupe.
+
+	De même, pour des postes perçus comme traditionnellement féminins, tels que les métiers infirmiers, une IA pourrait favoriser les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l’algorithme pourrait établir une association entre le genre féminin et la réussite dans ce type de rôle, excluant potentiellement des hommes qualifiés.
+
+	Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui reposent sur des données passées. Si les données d’entraînement reflètent des inégalités ou des stéréotypes, les décisions de l’algorithme seront biaisées. Il est donc crucial d’utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais afin d’éviter que l’IA ne reproduise des schémas discriminatoires. Les entreprises doivent également rester vigilantes en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement pour s’assurer que ces outils contribuent à une plus grande équité, plutôt qu’à la perpétuation des inégalités existantes.
+
+	En résumé, l’utilisation des IA dans la sélection des CV comporte des risques de biais liés à l’âge, au genre et à l’origine ethnique. Il est essentiel de prendre des mesures pour que ces outils ne deviennent pas des amplificateurs d’injustices, mais plutôt des leviers favorisant l’inclusion et la diversité.
+
+Ex04:
+	1.Correct the email and eliminate any mistakes:
+
+	Hello,
+	I just received your request regarding the possibility of getting a refund on the product
+	you bought from us. Unfortunately, after checking, we are not able to grant your request.
+	Indeed, our return policy does not allow refunds in this kind of situation, especially after
+	the deadline that was indicated in the purchase conditions.
+	I understand that this situation can be disappointing, but we cannot grant you an exception. We do everything possible to satisfy our customer, but in this case, it’s impossible
+	to go further with the refund request.
+	Hoping that you will continue to trust our service, we remain at your disposal for any
+	other question or concern.
+	Best regards, Ben Customer Service
+
+	2.Rewrite the mail in a more formal and refinedd style.
+
+Ex05:
+	Generate the content of several slides (a maximum of 5) for the populat science conference on deep learning: https://en.wikipedia.org/wiki/Deep_learning.
+
+Ex06:
+	1. Energy & Sustainability
+	Cities run entirely on renewable sources — solar, wind, fusion, and advanced storage systems. Carbon capture is embedded in infrastructure, stabilizing climate change.
+
+	2. Urban Living
+	Mega‑cities evolve into eco‑cities with vertical farms, algae bioreactors, and smart housing. AI manages traffic, waste, and energy flows for efficiency.
+
+	3. Transportation
+	Autonomous electric vehicles dominate, while maglev hyperloops and suborbital flights connect continents in hours. Personal drones handle short‑distance logistics.
+
+	4. Healthcare
+	AI‑driven diagnostics, nanomedicine, and genetic engineering extend lifespans. Preventive care is personalized through brain‑computer interfaces and bio‑sensors.
+
+	5. Work & Economy
+	Automation and AGI reshape labor markets. Humans focus on creativity, ethics, and governance, while machines handle repetitive tasks. Universal basic income or resource credits stabilize economies.
+
+	6. Education
+	Learning is immersive, powered by neural interfaces and AR. Knowledge is tailored to individual cognitive styles, with lifelong learning becoming the norm.
+
+	7. Environment & Biodiversity
+	Climate engineering stabilizes ecosystems. Genetic archives and rewilding projects restore extinct species. Oceans are monitored by AI drones to prevent collapse.
+
+	8. Space Expansion
+	Lunar colonies, Mars settlements, and asteroid mining provide resources. Space becomes an extension of Earth’s economy and a frontier for human exploration.
+
+	9. Culture & Society
+	Global culture blends digital and physical worlds. Virtual reality communities coexist with physical societies, raising questions of identity and belonging.
+
+	10. Ethics & Governance
+	Debates over AI rights, privacy, and human autonomy dominate politics. Governance evolves into hybrid human‑AI councils to balance efficiency with fairness.
+
+Ex07:
+	Module 01 - complete.

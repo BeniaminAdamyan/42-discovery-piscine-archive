@@ -1,0 +1,23 @@
+Ex00:
+Hello World!
+
+Ex01:
+I choosed Copilot, 'casue it explains things step-by-step without confusing me...
+
+Ex02:
+A large language model (LLM) works by breaking text into tokens, mapping them into embeddings, and using the Transformer architecture with self‑attention to predict the next token in a sequence. It is trained first on massive text datasets for general language patterns, then fine‑tuned for specific tasks like chat or coding. LLMs excel at generating fluent, context‑aware text but can also hallucinate or reflect biases from their training data.
+
+Ex03:
+AI research began with early logic and computation theories, leading to the Dartmouth workshop in 1956 where the field was formally founded. Initial optimism in the 1960s and 1970s gave way to setbacks and funding cuts, resulting in the first AI winter. The 1980s saw a revival through expert systems, but another downturn followed after the Lisp Machine collapse. In the 1990s and 2000s, progress came from connectionism, neural networks, and narrow AI applications, eventually inspiring the pursuit of AGI. Since 2012, deep learning breakthroughs, large datasets, and hardware advances have fueled rapid growth, culminating in milestones like AlphaGo and GPT‑3, and driving massive investment and widespread adoption of AI.
+
+Ex04:
+The email chain highlights growing concerns about LLM usage within the company. Marie Dupuis (DPO) warns of GDPR risks if sensitive data is shared with external models, urging clear guidelines. Jean Lefebvre (CIO) supports her view, suggesting audits, filtering systems, and staff training. Claire Martin (Legal) stresses liability issues and proposes drafting a strict internal LLM charter. Thomas Durand (Digital Projects) recommends technical restrictions to isolate LLMs from sensitive data, while Nathalie Dupont (CEO) endorses both legal and technical measures and calls for a meeting to formalize actions.
+
+Ex05:
+Draft a short introductory paragraph about the Advanced Micro Devices at limit of 500 characters.
+
+Ex06:
+Draft a thank you and summary email of this discussion, Mate.
+
+Ex07:
+Module 00 - complete.

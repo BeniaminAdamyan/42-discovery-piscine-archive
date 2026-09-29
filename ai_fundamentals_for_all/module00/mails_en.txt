@@ -1,0 +1,125 @@
+From: Nathalie Dupont, Chief Executive Officer
+To: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects
+Date: September 26, 2024, 12:30 PM
+
+Dear Colleagues,
+
+Thank you for your contributions. Marie, I appreciate you raising this critical issue. I believe we must act swiftly and collaboratively to prevent any incidents related to the use of LLMs. I support Claire’s suggestion to implement a charter, as well as the technical approach proposed by Thomas and Jean.
+
+I encourage you to schedule a meeting soon to formalize these actions and ensure that all our employees are well-informed about these concerns.
+
+Best regards,
+Nathalie Dupont
+Chief Executive Officer
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+    From: Thomas Durand, Head of Digital Projects
+    To: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal
+    Date: September 26, 2024, 11:45 AM
+    Cc: Nathalie Dupont, Chief Executive Officer
+
+    Dear all,
+
+    I completely agree with your observations. As Head of Digital Projects, I have noticed that LLMs are increasingly being used, particularly to automate responses or analyses. However, I share Marie's concern about the risk of exposing sensitive information.
+
+    I believe it would also be beneficial to implement a technical solution that restricts access to LLMs for certain types of data. Perhaps we could configure these tools to operate only in isolated and controlled environments, preventing them from accessing the company’s sensitive data.
+
+    I am available to work with Jean on finding an appropriate technical solution.
+
+    Best regards,
+    Thomas Durand
+    Head of Digital Projects
+
+
+
+
+
+
+
+    
+
+
+        From: Claire Martin, Head of Legal
+        To: Marie Dupuis, Data Protection Officer; Jean Lefebvre, Chief Information Officer
+        Date: September 26, 2024, 11:00 AM
+        Cc: Thomas Durand, Head of Digital Projects; Nathalie Dupont, Chief Executive Officer
+
+        Dear Marie, dear Jean,
+
+        Thank you for your feedback. From a legal standpoint, it is clear that the uncontrolled sharing of data with external LLMs could constitute a GDPR violation, potentially exposing the company to liability. I agree with the idea of training on best practices, but I also emphasize the importance of formalizing a strict internal policy on the use of these technologies.
+
+        I propose collaborating with you to draft a specific usage charter for LLMs, clearly outlining the types of information that should never be shared with these systems.
+
+        Best regards,
+        Claire Martin
+        Head of Legal
+
+
+            
+            
+            
+
+            
+            
+            
+
+
+
+            From: Jean Lefebvre, Chief Information Officer
+            To: Marie Dupuis, Data Protection Officer
+            Date: September 26, 2024, 10:12 AM
+            Cc: Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects; Nathalie Dupont, Chief Executive Officer
+
+            Dear Marie,
+
+            Thank you for your message. Your concern is entirely justified. We have indeed noticed that internal users may be tempted to ask technical or operational questions to these models without fully considering the consequences regarding the data being shared.
+
+            We could consider implementing a filtering system that would prevent the sending of identifiable or sensitive information to these platforms. Additionally, a quick training session for teams on the risks associated with LLM usage would be beneficial to avoid any unintentional breaches.
+
+            I suggest conducting an audit of the queries sent to LLMs over the past few months to determine if any sensitive data has already been exchanged.
+
+            Best regards,
+            Jean Lefebvre
+            Chief Information Officer
+
+
+                
+                
+                
+
+                
+                
+                
+
+
+                From: Marie Dupuis, Data Protection Officer (DPO)
+                To: Jean Lefebvre, Chief Information Officer; Claire Martin, Head of Legal; Thomas Durand, Head of Digital Projects
+                Date: September 26, 2024, 09:30 AM
+                Cc: Nathalie Dupont, Chief Executive Officer
+
+                Dear Colleagues,
+
+                I am writing to address a matter of great importance regarding the use of language models (LLMs), which are increasingly being integrated into our workflows.
+
+                As DPO, I must express my concerns about the data that could potentially be shared when interacting with these tools. Indeed, when posing questions to LLMs, there is a risk that personal or sensitive data may inadvertently be shared or processed by external systems, beyond our control.
+
+                I would like to remind you that we are legally obligated to ensure that information about our clients, partners, or employees is never exposed to third parties without explicit consent or outside the strict regulatory framework (GDPR). It is therefore imperative that we take steps to mitigate the risks associated with the use of these tools.
+
+                I suggest we organize a meeting promptly to establish clear guidelines on what can and cannot be submitted to LLMs, as well as to explore security measures to regulate these practices.
+
+                I remain available for any questions or clarifications.
+
+                Best regards,
+                Marie Dupuis
+                Data Protection Officer
+
